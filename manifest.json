@@ -1,0 +1,10 @@
+{
+	"id": "ai-author-spirit",
+	"name": "AI Author Spirit",
+	"version": "1.0.0",
+	"minAppVersion": "1.8.7",
+	"description": "Analyze writing style, vocabulary and structure of notes. The plugin generates a detailed percentage-based statistical breakdown, showing not just vocabulary overlap, but how closely your writing matches the style and spirit of a chosen author using AI models.",
+	"author": "Arty D",
+	"authorUrl": "https://github.com/artyd-developer/",
+  	"isDesktopOnly": false
+}
