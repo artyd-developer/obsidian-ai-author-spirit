@@ -4,6 +4,9 @@
 
 Analyze your writing style and explore similarities with your favorite authors using AI-powered insights.
 
+<img width="1855" height="1079" alt="example" src="https://github.com/user-attachments/assets/257d3b7a-1a6c-4bd2-8cff-b7b3ca062e27" />
+
+
 ## Features
 
 - **Stylometric Analysis**: Compare sentence length, vocabulary richness, punctuation, n-grams, and burstiness
