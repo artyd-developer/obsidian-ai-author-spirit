@@ -4,7 +4,10 @@
 
 Analyze your writing style and explore similarities with your favorite authors using AI-powered insights.
 
-<img width="1855" height="1079" alt="example" src="https://github.com/user-attachments/assets/257d3b7a-1a6c-4bd2-8cff-b7b3ca062e27" />
+<video src="https://github.com/user-attachments/assets/84658154-2a51-4686-bf9d-2fcbc4b5f6ea" controls width="800"></video>
+<img width="1024" height="780" alt="prompt_ex" src="https://github.com/user-attachments/assets/10274d97-2e3e-4291-9400-289d9ecb5a0e" />
+
+
 
 
 ## Features
