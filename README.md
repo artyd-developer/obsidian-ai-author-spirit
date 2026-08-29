@@ -1,3 +1,5 @@
+[English](README.md) | [Русский](README.ru.md)
+
 # AI Author Spirit
 
 > An Obsidian plugin for stylometric analysis and AI-powered writing insights.
