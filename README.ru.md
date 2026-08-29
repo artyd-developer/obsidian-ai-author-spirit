@@ -1,5 +1,4 @@
 
-```markdown
 [English](README.md) | [Русский](README.ru.md)
 
 # AI Author Spirit
