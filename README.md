@@ -6,7 +6,8 @@
 
 Analyze your writing style and explore similarities with your favorite authors using AI-powered insights.
 
-<video src="https://github.com/user-attachments/assets/84658154-2a51-4686-bf9d-2fcbc4b5f6ea" controls width="800"></video>
+https://github.com/user-attachments/assets/84658154-2a51-4686-bf9d-2fcbc4b5f6ea
+
 <img width="1024" height="780" alt="prompt_ex" src="https://github.com/user-attachments/assets/10274d97-2e3e-4291-9400-289d9ecb5a0e" />
 
 
