@@ -48,3 +48,29 @@ cd obsidian-ai-author-spirit
 npm install
 npm run build
 ```
+
+## Тестирование
+
+Установите зависимости из lock-файла:
+
+```bash
+npm ci
+```
+
+Запустите тесты один раз:
+
+```bash
+npm test
+```
+
+Запустите тесты в режиме наблюдения во время разработки:
+
+```bash
+npm run test:watch
+```
+
+Соберите production-версию плагина:
+
+```bash
+npm run build
+```
