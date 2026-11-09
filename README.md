@@ -49,3 +49,29 @@ cd obsidian-ai-author-spirit
 npm install
 npm run build
 ```
+
+## Testing
+
+Install the locked project dependencies:
+
+```bash
+npm ci
+```
+
+Run the test suite once:
+
+```bash
+npm test
+```
+
+Run tests in watch mode while developing:
+
+```bash
+npm run test:watch
+```
+
+Build the production plugin bundle:
+
+```bash
+npm run build
+```

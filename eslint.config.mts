@@ -34,6 +34,17 @@ export default tseslint.config(
     ...obsidianmd.configs.recommended,
 
     {
+        files: ['tests/**/*.ts', 'vitest.config.ts'],
+        languageOptions: {
+            parserOptions: {
+                projectService: false,
+                project: ['./tsconfig.test.json'],
+                tsconfigRootDir: import.meta.dirname,
+            },
+        },
+    },
+
+    {
         files: ['src/settings.ts'],
         rules: {
             'obsidianmd/no-unsupported-api': 'off',
